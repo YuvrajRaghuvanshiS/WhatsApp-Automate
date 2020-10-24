@@ -15,3 +15,4 @@ docs/_build
 .eggs
 *.sublime-*
 sample/testprofile
+send_to_contacts.txt
